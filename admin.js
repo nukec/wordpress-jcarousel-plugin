@@ -50,11 +50,6 @@ function preview(divid){
 
 }
 
-function kurac(){
-
-alert('hex');
-}
-
 
 jQuery(function(){
 
